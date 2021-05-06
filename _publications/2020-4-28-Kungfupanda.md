@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-4-28
 venue: 'SemEval Workshop'
 paperurl: 'https://arxiv.org/pdf/2004.13432.pdf'
-authors: 'Wenliang Dai, Tiezheng Yu, Zihan Liu, Pascale Fung'
+authors: 'Wenliang Dai*, Tiezheng Yu*, Zihan Liu, Pascale Fung'
 citation: 'Dai W, Yu T, Liu Z, et al. Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection[J]. arXiv, 2020: arXiv: 2004.13432.'
 paper: 'https://arxiv.org/pdf/2004.13432.pdf'
 slide: #'/files/iceei_slides_2015.pdf'

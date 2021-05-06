@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-3-26
 venue: 'NAACL'
 paperurl: 'https://arxiv.org/abs/2103.11332'
-authors: 'Tiezheng Yu, Zihan Liu, Pascale Fung'
+authors: 'Tiezheng Yu*, Zihan Liu*, Pascale Fung'
 citation: 'Tiezheng Yu, et al. "AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization." arXiv preprint arXiv:2103.11332 (2021).'
 paper: 'https://arxiv.org/abs/2103.11332'
 slide:
