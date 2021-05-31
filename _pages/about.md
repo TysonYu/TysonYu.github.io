@@ -35,4 +35,4 @@ Highlights
 
 ### *2021*
 + Our [AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization](https://arxiv.org/abs/2103.11332) is accepted as a long paper in [NAACL 2021](https://2021.naacl.org)
-+ Our [Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance](https://arxiv.org/abs/2105.12969) is accepted as a long paper in [Findings of ACL 2021](https://2021.aclweb.org)
++ Our [Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance](https://arxiv.org/abs/2105.12969) is accepted as a short paper in [Findings of ACL 2021](https://2021.aclweb.org)
