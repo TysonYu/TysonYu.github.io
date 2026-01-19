@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn/mainm.htm). My research aims to build more reliable and efficient large language models for real-world applications.
+I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn/mainm.htm). 
+
+My research focuses on developing more reliable and practical large language models (LLMs) tailored for real-world deployment scenarios. Currently, my work spans three core directions: LLM post-training, comprehensive LLM evaluation, and coding agent development. For detailed information on my publications and research outputs, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=JK7nNekAAAAJ). Should you have any inquiries or wish to collaborate, feel free to contact me at tyuah@connect.ust.hk.
