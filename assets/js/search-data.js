@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-comprehensive-survey-introduces-agent-as-a-judge-an-advanced-ai-evaluation-paradigm-that-leverages-planning-tool-integration-multi-agent-collaboration-and-memory-to-address-the-biases-lack-of-verification-and-coarse-grained-limitations-of-traditional-llm-as-a-judge-with-applications-spanning-general-domains-like-math-and-fact-checking-to-professional-fields-such-as-medicine-law-and-education-the-survey-outlines-the-evolution-of-agent-as-a-judge-into-three-stages-procedural-reactive-self-evolving-analyzes-core-methodologies-and-key-challenges-including-computational-cost-and-safety-and-points-to-future-directions-like-personalization-and-interactivity-to-unlock-truly-autonomous-ai-evaluation",
-          title: 'A new comprehensive survey introduces Agent-as-a-Judge, an advanced AI evaluation paradigm that leverages...',
+            },},{id: "news-we-release-our-survey-on-agent-as-a-judge",
+          title: 'We release our survey on Agent-as-a-Judge.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
