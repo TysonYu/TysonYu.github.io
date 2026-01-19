@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 余铁铮 | Researcher Focusing on LLMs
+subtitle: 余铁铮 | Researcher Focusing on Large Language Models (LLMs)
 
 profile:
   align: right
