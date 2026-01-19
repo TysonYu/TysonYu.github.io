@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: 余铁铮 | Researcher Focusing on LLMs
 
 profile:
   align: right
