@@ -31,6 +31,6 @@ I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of 
 My research focuses on developing more reliable and practical large language models (LLMs) tailored for real-world deployment scenarios. Currently, my work spans three core directions: 
 + LLM post-training
 + Comprehensive LLM evaluation
-+ Coding agent development. 
++ Coding agent development
 
 For detailed information on my publications and research outputs, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=JK7nNekAAAAJ). Should you have any inquiries or wish to collaborate, feel free to contact me at tyuah@connect.ust.hk.
