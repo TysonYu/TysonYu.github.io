@@ -377,7 +377,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-release-our-survey-on-agent-as-a-judge",
+            },},{id: "news-our-paper-the-synergy-dilemma-of-long-cot-sft-and-rl-investigating-post-training-techniques-for-reasoning-vlms-is-accepted-in-transactions-on-machine-learning-research-tmlr",
+          title: 'Our paper “The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques...',
+          description: "",
+          section: "News",},{id: "news-we-release-our-survey-on-agent-as-a-judge",
           title: 'We release our survey on Agent-as-a-Judge.',
           description: "",
           section: "News",},{id: "projects-project-1",
