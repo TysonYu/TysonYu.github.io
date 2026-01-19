@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn/mainm.htm).
+I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn/mainm.htm). My research aims to build more reliable and efficient large language models for real-world applications.
