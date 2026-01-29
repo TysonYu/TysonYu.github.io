@@ -34,3 +34,5 @@ My research focuses on developing more reliable and practical large language mod
 + Coding agent development
 
 For detailed information on my publications and research outputs, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=JK7nNekAAAAJ). Should you have any inquiries or wish to collaborate, feel free to contact me at tyuah@connect.ust.hk.
+
+**We welcome students interested in internships to join us!** Our team provides GPU computing power support and access to LLM APIs for interns, focusing on LLM-related research and practice to help turn technical ideas into reality. We look forward to enthusiastic and diligent students in fields such as LLM, Natural Language Processing (NLP), and Machine Learning (ML) to connect with us and explore more possibilities of AI technology together.
