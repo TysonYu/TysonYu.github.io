@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-11'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -34,7 +34,7 @@ papers:
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 6778
+    citations: 6809
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3ejUd6NZC8C:
@@ -62,7 +62,7 @@ papers:
     title: Agent-as-a-Judge
     year: '2026'
   JK7nNekAAAAJ:TQgYirikUcIC:
-    citations: 499
+    citations: 502
     title: Towards mitigating LLM hallucination via self reflection
     year: '2023'
   JK7nNekAAAAJ:ULOm3_A8WrAC:
@@ -94,7 +94,7 @@ papers:
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2173
+    citations: 2176
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
@@ -134,7 +134,7 @@ papers:
     title: 'Casual Conversations v2: Designing a large consent-driven dataset to measure algorithmic bias and robustness'
     year: '2022'
   JK7nNekAAAAJ:qjMakFHDy7sC:
-    citations: 52
+    citations: 53
     title: Multi-hop Question Generation with Graph Convolutional Network
     year: '2020'
   JK7nNekAAAAJ:r0BpntZqJG4C:
@@ -142,7 +142,7 @@ papers:
     title: 'Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing'
     year: '2025'
   JK7nNekAAAAJ:roLk4NBRz8UC:
-    citations: 14
+    citations: 15
     title: 'NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias'
     year: '2022'
   JK7nNekAAAAJ:u-x6o8ySG0sC:
@@ -150,7 +150,7 @@ papers:
     title: 'Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection'
     year: '2020'
   JK7nNekAAAAJ:u5HHmVD_uO8C:
-    citations: 136
+    citations: 137
     title: 'Caire-covid: A question answering and multi-document summarization system for covid-19 research'
     year: '2020'
   JK7nNekAAAAJ:ufrVoPGSRksC:
