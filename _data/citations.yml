@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-27'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: BART-based Approach for Scientific Document Summarization
     year: '2020'
   JK7nNekAAAAJ:7PzlFSSx8tAC:
-    citations: 820
+    citations: 176
     title: 'NusaCrowd: Open source initiative for Indonesian NLP resources'
     year: '2023'
   JK7nNekAAAAJ:8k81kl-MbHgC:
@@ -22,11 +22,11 @@ papers:
     title: Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition
     year: '2020'
   JK7nNekAAAAJ:IWHjjKOFINEC:
-    citations: 14
+    citations: 16
     title: 'Reviseval: Improving llm-as-a-judge via response-adapted references'
     year: '2024'
   JK7nNekAAAAJ:IjCSPb-OGe4C:
-    citations: 225
+    citations: 233
     title: 'CrossNER: Evaluating Cross-Domain Named Entity Recognition'
     year: '2020'
   JK7nNekAAAAJ:KlAtU1dfN6UC:
@@ -34,7 +34,7 @@ papers:
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 6809
+    citations: 7017
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3ejUd6NZC8C:
@@ -46,27 +46,23 @@ papers:
     title: Enabling classifiers to make judgements explicitly aligned with human values
     year: '2023'
   JK7nNekAAAAJ:QIV2ME_5wuYC:
-    citations: 109
+    citations: 628
     title: Towards mitigating hallucination in large language models via self-reflection
     year: '2023'
   JK7nNekAAAAJ:R3hNpaxXUhUC:
-    citations: 2
+    citations: 5
     title: 'The synergy dilemma of long-cot sft and rl: Investigating post-training techniques for reasoning vlms'
     year: '2025'
   JK7nNekAAAAJ:Se3iqnhoufwC:
-    citations: 15
+    citations: 14
     title: 'SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study'
     year: '2022'
   JK7nNekAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Agent-as-a-Judge
     year: '2026'
-  JK7nNekAAAAJ:TQgYirikUcIC:
-    citations: 502
-    title: Towards mitigating LLM hallucination via self reflection
-    year: '2023'
   JK7nNekAAAAJ:ULOm3_A8WrAC:
-    citations: 6
+    citations: 7
     title: Towards answering open-ended ethical quandary questions
     year: '2022'
   JK7nNekAAAAJ:UebtZRa9Y70C:
@@ -74,7 +70,7 @@ papers:
     title: 'Aisocrates: Towards answering ethical quandary questions'
     year: '2022'
   JK7nNekAAAAJ:WF5omc3nYNoC:
-    citations: 7
+    citations: 9
     title: 'CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition'
     year: '2022'
   JK7nNekAAAAJ:Wp0gIr-vW9MC:
@@ -82,7 +78,7 @@ papers:
     title: Improving query-focused meeting summarization with query-relevant knowledge
     year: '2023'
   JK7nNekAAAAJ:Y0pCki6q_DkC:
-    citations: 46
+    citations: 47
     title: Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
     year: '2021'
   JK7nNekAAAAJ:YsMSGLbcyi4C:
@@ -94,11 +90,11 @@ papers:
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2176
+    citations: 2205
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
-    citations: 5
+    citations: 7
     title: Generating hashtags for short-form videos with guided signals
     year: '2023'
   JK7nNekAAAAJ:bEWYMUwI8FkC:
@@ -106,8 +102,8 @@ papers:
     title: 'InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search'
     year: '2025'
   JK7nNekAAAAJ:e5wmG9Sq2KIC:
-    citations: 3
-    title: 'Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity'
+    citations: 4
+    title: 'Pangu pro moe: Mixture of grouped experts for efficient sparsity'
     year: '2025'
   JK7nNekAAAAJ:eQOLeE2rZwMC:
     citations: 53
@@ -118,7 +114,7 @@ papers:
     title: Generative Vision-Language Summarization
     year: '2023'
   JK7nNekAAAAJ:hFOr9nPyWt4C:
-    citations: 35
+    citations: 41
     title: Quantization hurts reasoning? an empirical study on quantized reasoning models
     year: '2025'
   JK7nNekAAAAJ:hqOjcs7Dif8C:
@@ -142,15 +138,15 @@ papers:
     title: 'Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing'
     year: '2025'
   JK7nNekAAAAJ:roLk4NBRz8UC:
-    citations: 15
+    citations: 16
     title: 'NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias'
     year: '2022'
   JK7nNekAAAAJ:u-x6o8ySG0sC:
-    citations: 40
+    citations: 38
     title: 'Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection'
     year: '2020'
   JK7nNekAAAAJ:u5HHmVD_uO8C:
-    citations: 137
+    citations: 136
     title: 'Caire-covid: A question answering and multi-document summarization system for covid-19 research'
     year: '2020'
   JK7nNekAAAAJ:ufrVoPGSRksC:
@@ -158,6 +154,6 @@ papers:
     title: 'Automatic Speech Recognition Datasets in Cantonese: A Survey and New Dataset'
     year: '2022'
   JK7nNekAAAAJ:zYLM7Y9cAGgC:
-    citations: 110
+    citations: 111
     title: 'AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization'
     year: '2021'
