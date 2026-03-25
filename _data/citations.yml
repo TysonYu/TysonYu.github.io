@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-25'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: BART-based Approach for Scientific Document Summarization
     year: '2020'
   JK7nNekAAAAJ:7PzlFSSx8tAC:
-    citations: 177
+    citations: 178
     title: 'NusaCrowd: Open source initiative for Indonesian NLP resources'
     year: '2023'
   JK7nNekAAAAJ:8k81kl-MbHgC:
@@ -26,15 +26,15 @@ papers:
     title: 'Reviseval: Improving llm-as-a-judge via response-adapted references'
     year: '2024'
   JK7nNekAAAAJ:IjCSPb-OGe4C:
-    citations: 237
+    citations: 238
     title: 'CrossNER: Evaluating Cross-Domain Named Entity Recognition'
     year: '2020'
   JK7nNekAAAAJ:KlAtU1dfN6UC:
-    citations: 85
+    citations: 86
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 7353
+    citations: 7432
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3ejUd6NZC8C:
@@ -46,7 +46,7 @@ papers:
     title: Enabling classifiers to make judgements explicitly aligned with human values
     year: '2023'
   JK7nNekAAAAJ:QIV2ME_5wuYC:
-    citations: 655
+    citations: 658
     title: Towards mitigating hallucination in large language models via self-reflection
     year: '2023'
   JK7nNekAAAAJ:R3hNpaxXUhUC:
@@ -82,7 +82,7 @@ papers:
     title: Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
     year: '2021'
   JK7nNekAAAAJ:YsMSGLbcyi4C:
-    citations: 107
+    citations: 109
     title: Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization
     year: '2021'
   JK7nNekAAAAJ:ZeXyd9-uunAC:
@@ -90,7 +90,7 @@ papers:
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2231
+    citations: 2244
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
@@ -98,7 +98,7 @@ papers:
     title: Generating hashtags for short-form videos with guided signals
     year: '2023'
   JK7nNekAAAAJ:bEWYMUwI8FkC:
-    citations: 0
+    citations: 1
     title: 'InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search'
     year: '2025'
   JK7nNekAAAAJ:e5wmG9Sq2KIC:
@@ -106,7 +106,7 @@ papers:
     title: 'Pangu pro moe: Mixture of grouped experts for efficient sparsity'
     year: '2025'
   JK7nNekAAAAJ:eQOLeE2rZwMC:
-    citations: 54
+    citations: 55
     title: 'ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation'
     year: '2021'
   JK7nNekAAAAJ:hC7cP41nSMkC:
@@ -130,7 +130,7 @@ papers:
     title: 'Casual Conversations v2: Designing a large consent-driven dataset to measure algorithmic bias and robustness'
     year: '2022'
   JK7nNekAAAAJ:qjMakFHDy7sC:
-    citations: 54
+    citations: 56
     title: Multi-hop Question Generation with Graph Convolutional Network
     year: '2020'
   JK7nNekAAAAJ:r0BpntZqJG4C:
@@ -142,7 +142,7 @@ papers:
     title: 'NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias'
     year: '2022'
   JK7nNekAAAAJ:u-x6o8ySG0sC:
-    citations: 39
+    citations: 41
     title: 'Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection'
     year: '2020'
   JK7nNekAAAAJ:u5HHmVD_uO8C:
@@ -150,7 +150,7 @@ papers:
     title: 'Caire-covid: A question answering and multi-document summarization system for covid-19 research'
     year: '2020'
   JK7nNekAAAAJ:ufrVoPGSRksC:
-    citations: 26
+    citations: 27
     title: 'Automatic Speech Recognition Datasets in Cantonese: A Survey and New Dataset'
     year: '2022'
   JK7nNekAAAAJ:zYLM7Y9cAGgC:
