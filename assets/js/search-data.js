@@ -383,12 +383,10 @@ ninja.data = [{
           section: "News",},{id: "news-we-release-our-survey-on-agent-as-a-judge",
           title: 'We release our survey on Agent-as-a-Judge.',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-our-paper-one-adapts-to-any-meta-reward-modeling-for-personalized-llm-alignment-is-accepted-in-sigir-2026",
+          title: 'Our paper “One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment”...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
