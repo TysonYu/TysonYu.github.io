@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-10'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -14,7 +14,7 @@ papers:
     title: 'NusaCrowd: Open source initiative for Indonesian NLP resources'
     year: '2023'
   JK7nNekAAAAJ:8k81kl-MbHgC:
-    citations: 9
+    citations: 8
     title: 'Ci-avsr: A cantonese audio-visual speech datasetfor in-car command recognition'
     year: '2022'
   JK7nNekAAAAJ:9yKSN-GCB0IC:
@@ -26,15 +26,15 @@ papers:
     title: 'Reviseval: Improving llm-as-a-judge via response-adapted references'
     year: '2024'
   JK7nNekAAAAJ:IjCSPb-OGe4C:
-    citations: 238
+    citations: 240
     title: 'CrossNER: Evaluating Cross-Domain Named Entity Recognition'
     year: '2020'
   JK7nNekAAAAJ:KlAtU1dfN6UC:
-    citations: 86
+    citations: 87
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 7432
+    citations: 7683
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3ejUd6NZC8C:
@@ -46,7 +46,7 @@ papers:
     title: Enabling classifiers to make judgements explicitly aligned with human values
     year: '2023'
   JK7nNekAAAAJ:QIV2ME_5wuYC:
-    citations: 658
+    citations: 676
     title: Towards mitigating hallucination in large language models via self-reflection
     year: '2023'
   JK7nNekAAAAJ:R3hNpaxXUhUC:
@@ -58,7 +58,7 @@ papers:
     title: 'SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study'
     year: '2022'
   JK7nNekAAAAJ:TFP_iSt0sucC:
-    citations: 0
+    citations: 1
     title: Agent-as-a-Judge
     year: '2026'
   JK7nNekAAAAJ:ULOm3_A8WrAC:
@@ -70,7 +70,7 @@ papers:
     title: 'Aisocrates: Towards answering ethical quandary questions'
     year: '2022'
   JK7nNekAAAAJ:WF5omc3nYNoC:
-    citations: 9
+    citations: 8
     title: 'CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition'
     year: '2022'
   JK7nNekAAAAJ:Wp0gIr-vW9MC:
@@ -78,11 +78,11 @@ papers:
     title: Improving query-focused meeting summarization with query-relevant knowledge
     year: '2023'
   JK7nNekAAAAJ:Y0pCki6q_DkC:
-    citations: 47
+    citations: 48
     title: Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
     year: '2021'
   JK7nNekAAAAJ:YsMSGLbcyi4C:
-    citations: 109
+    citations: 110
     title: Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization
     year: '2021'
   JK7nNekAAAAJ:ZeXyd9-uunAC:
@@ -90,7 +90,7 @@ papers:
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2244
+    citations: 2261
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
@@ -114,7 +114,7 @@ papers:
     title: Generative Vision-Language Summarization
     year: '2023'
   JK7nNekAAAAJ:hFOr9nPyWt4C:
-    citations: 44
+    citations: 46
     title: Quantization hurts reasoning? an empirical study on quantized reasoning models
     year: '2025'
   JK7nNekAAAAJ:hqOjcs7Dif8C:
@@ -138,7 +138,7 @@ papers:
     title: 'Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing'
     year: '2025'
   JK7nNekAAAAJ:roLk4NBRz8UC:
-    citations: 16
+    citations: 17
     title: 'NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias'
     year: '2022'
   JK7nNekAAAAJ:u-x6o8ySG0sC:
@@ -146,7 +146,7 @@ papers:
     title: 'Kungfupanda at SemEval-2020 Task 12: BERT-Based Multi-Task Learning for Offensive Language Detection'
     year: '2020'
   JK7nNekAAAAJ:u5HHmVD_uO8C:
-    citations: 136
+    citations: 137
     title: 'Caire-covid: A question answering and multi-document summarization system for covid-19 research'
     year: '2020'
   JK7nNekAAAAJ:ufrVoPGSRksC:
@@ -154,6 +154,6 @@ papers:
     title: 'Automatic Speech Recognition Datasets in Cantonese: A Survey and New Dataset'
     year: '2022'
   JK7nNekAAAAJ:zYLM7Y9cAGgC:
-    citations: 112
+    citations: 113
     title: 'AdaptSum: Towards Low-Resource Domain Adaptation for Abstractive Summarization'
     year: '2021'
