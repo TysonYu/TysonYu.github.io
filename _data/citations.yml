@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-22'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: BART-based Approach for Scientific Document Summarization
     year: '2020'
   JK7nNekAAAAJ:7PzlFSSx8tAC:
-    citations: 179
+    citations: 180
     title: 'NusaCrowd: Open source initiative for Indonesian NLP resources'
     year: '2023'
   JK7nNekAAAAJ:8k81kl-MbHgC:
@@ -30,11 +30,11 @@ papers:
     title: 'CrossNER: Evaluating Cross-Domain Named Entity Recognition'
     year: '2020'
   JK7nNekAAAAJ:KlAtU1dfN6UC:
-    citations: 87
+    citations: 88
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 7854
+    citations: 7894
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3ejUd6NZC8C:
@@ -74,7 +74,7 @@ papers:
     title: 'CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition'
     year: '2022'
   JK7nNekAAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 4
     title: Improving query-focused meeting summarization with query-relevant knowledge
     year: '2023'
   JK7nNekAAAAJ:Y0pCki6q_DkC:
@@ -86,15 +86,15 @@ papers:
     title: Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization
     year: '2021'
   JK7nNekAAAAJ:ZeXyd9-uunAC:
-    citations: 16
+    citations: 17
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2273
+    citations: 2284
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
-    citations: 7
+    citations: 8
     title: Generating hashtags for short-form videos with guided signals
     year: '2023'
   JK7nNekAAAAJ:bEWYMUwI8FkC:
