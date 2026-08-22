@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -377,14 +384,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-the-synergy-dilemma-of-long-cot-sft-and-rl-investigating-post-training-techniques-for-reasoning-vlms-is-accepted-in-transactions-on-machine-learning-research-tmlr",
+            },},{id: "news-our-paper-the-synergy-dilemma-of-long-cot-sft-and-rl-investigating-post-training-techniques-for-reasoning-vlms-is-accepted-in-transactions-on-machine-learning-research-tmlr-it-examines-how-long-chain-of-thought-supervised-fine-tuning-and-reinforcement-learning-interact-when-post-training-reasoning-vision-language-models",
           title: 'Our paper “The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques...',
           description: "",
-          section: "News",},{id: "news-we-release-our-survey-on-agent-as-a-judge",
-          title: 'We release our survey on Agent-as-a-Judge.',
+          section: "News",},{id: "news-we-release-our-survey-on-agent-as-a-judge-which-reviews-how-llm-based-agents-can-evaluate-complex-tasks-through-autonomous-interaction-tool-use-and-environment-feedback",
+          title: 'We release our survey on Agent-as-a-Judge, which reviews how LLM-based agents can evaluate...',
           description: "",
-          section: "News",},{id: "news-our-paper-one-adapts-to-any-meta-reward-modeling-for-personalized-llm-alignment-is-accepted-in-sigir-2026",
+          section: "News",},{id: "news-our-paper-one-adapts-to-any-meta-reward-modeling-for-personalized-llm-alignment-is-accepted-in-sigir-2026-it-presents-a-meta-reward-modeling-approach-that-adapts-alignment-to-diverse-individual-preferences",
           title: 'Our paper “One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment”...',
+          description: "",
+          section: "News",},{id: "news-our-new-paper-what-makes-interaction-trajectories-effective-for-training-terminal-agents-introduces-terminal-lego-and-shows-that-environment-grounded-inspect-act-verify-trajectories-can-provide-more-effective-supervision-for-training-terminal-agents-than-stronger-teachers-outcome-focused-traces",
+          title: 'Our new paper, “What Makes Interaction Trajectories Effective for Training Terminal Agents?”, introduces...',
+          description: "",
+          section: "News",},{id: "news-we-release-openpangu-2-0-flash-and-openpangu-2-0-pro-together-with-the-accompanying-technical-report-flash-is-a-latency-oriented-ascend-native-moe-model-for-long-context-reasoning-and-tool-use-while-pro-is-a-505b-parameter-moe-model-18b-activated-parameters-per-token-with-a-512k-context-window-designed-for-stronger-general-reasoning-coding-and-agentic-capabilities-i-was-a-principal-contributor-to-the-reinforcement-learning-rl-component-of-this-work",
+          title: 'We release openPangu-2.0-Flash and openPangu-2.0-Pro, together with the accompanying technical report. Flash is...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -442,13 +455,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
