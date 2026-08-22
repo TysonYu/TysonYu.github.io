@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: 余铁铮 | Researcher Focusing on Large Language Models (LLMs)
+subtitle: 余铁铮 | LLM Post-training, Evaluation, and Agents
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_vividcool.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2 Science Park W Ave,</p>
-    <p>Science Park, Hong Kong</p>
+    <p>Hong Kong SAR</p>
+    <p>Huawei</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,13 +26,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Researcher at Huawei. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn). 
+I am a researcher at Huawei working on post-training, evaluation, and agentic systems for large language models. My research aims to make LLMs more reliable, capable, and practical for real-world deployment. I earned my Ph.D. from The Hong Kong University of Science and Technology, where I was supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). I hold a Bachelor’s degree in Electronic Engineering from [Zhejiang University](http://www.zju.edu.cn). 
 
 My research focuses on developing more reliable and practical large language models (LLMs) tailored for real-world deployment scenarios. Currently, my work spans three core directions: 
-+ LLM post-training
-+ Comprehensive LLM evaluation
-+ Coding agent development
+- LLM post-training and alignment
+- Comprehensive evaluation of LLM capabilities and reliability
+- LLM agents and agentic systems
 
 For detailed information on my publications and research outputs, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=JK7nNekAAAAJ). Should you have any inquiries or wish to collaborate, feel free to contact me at tyuah@connect.ust.hk.
 
-**We welcome students interested in internships to join us!** Our team provides GPU computing power support and access to LLM APIs for interns, focusing on LLM-related research and practice to help turn technical ideas into reality. We look forward to enthusiastic and diligent students in fields such as LLM, Natural Language Processing (NLP), and Machine Learning (ML) to connect with us and explore more possibilities of AI technology together.
+### Opportunities
+
+We are looking for motivated interns and full-time researchers interested in LLMs. Our team provides access to GPU computing resources and LLM APIs, with opportunities to work on both research and real-world applications.
+
+If you are interested, please email me with your CV and a brief description of your research interests.
