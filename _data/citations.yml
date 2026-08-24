@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-24'
 papers:
   JK7nNekAAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -18,7 +18,7 @@ papers:
     title: 'Ci-avsr: A cantonese audio-visual speech datasetfor in-car command recognition'
     year: '2022'
   JK7nNekAAAAJ:9yKSN-GCB0IC:
-    citations: 50
+    citations: 51
     title: Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition
     year: '2020'
   JK7nNekAAAAJ:IWHjjKOFINEC:
@@ -26,15 +26,15 @@ papers:
     title: 'Reviseval: Improving llm-as-a-judge via response-adapted references'
     year: '2024'
   JK7nNekAAAAJ:IjCSPb-OGe4C:
-    citations: 265
+    citations: 266
     title: 'CrossNER: Evaluating Cross-Domain Named Entity Recognition'
     year: '2020'
   JK7nNekAAAAJ:KlAtU1dfN6UC:
-    citations: 98
+    citations: 99
     title: 'RHO: Reducing hallucination in open-domain dialogues with knowledge grounding'
     year: '2023'
   JK7nNekAAAAJ:LkGwnXOMwfcC:
-    citations: 10731
+    citations: 10856
     title: Survey of hallucination in natural language generation
     year: '2023'
   JK7nNekAAAAJ:M3NEmzRMIkIC:
@@ -50,7 +50,7 @@ papers:
     title: Enabling classifiers to make judgements explicitly aligned with human values
     year: '2023'
   JK7nNekAAAAJ:QIV2ME_5wuYC:
-    citations: 823
+    citations: 829
     title: Towards mitigating hallucination in large language models via self-reflection
     year: '2023'
   JK7nNekAAAAJ:R3hNpaxXUhUC:
@@ -62,7 +62,7 @@ papers:
     title: 'SNP2Vec: Scalable Self-Supervised Pre-Training for Genome-Wide Association Study'
     year: '2022'
   JK7nNekAAAAJ:TFP_iSt0sucC:
-    citations: 10
+    citations: 12
     title: Agent-as-a-judge
     year: '2026'
   JK7nNekAAAAJ:ULOm3_A8WrAC:
@@ -94,7 +94,7 @@ papers:
     title: 'InstructAlign: High-and-low resource language alignment via continual crosslingual instruction tuning'
     year: '2023'
   JK7nNekAAAAJ:_kc_bZDykSQC:
-    citations: 2476
+    citations: 2482
     title: A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
     year: '2023'
   JK7nNekAAAAJ:aqlVkmm33-oC:
@@ -102,7 +102,7 @@ papers:
     title: Generating hashtags for short-form videos with guided signals
     year: '2023'
   JK7nNekAAAAJ:bEWYMUwI8FkC:
-    citations: 6
+    citations: 7
     title: 'Insight-o3: Empowering multimodal foundation models with generalized visual search'
     year: '2025'
   JK7nNekAAAAJ:e5wmG9Sq2KIC:
@@ -118,7 +118,7 @@ papers:
     title: Generative Vision-Language Summarization
     year: '2023'
   JK7nNekAAAAJ:hFOr9nPyWt4C:
-    citations: 68
+    citations: 69
     title: Quantization hurts reasoning? an empirical study on quantized reasoning models
     year: '2025'
   JK7nNekAAAAJ:hqOjcs7Dif8C:
